@@ -7258,4 +7258,14 @@
     <Type>Script</Type>
     <Description> In-game timer, auto-start, auto-reset and autosplitting for EU 1.5 available (by Mr. Mary) </Description>
   </AutoSplitter>
+  <AutoSplitter>
+    <Games>
+        <Game>Goat Simulator</Game>
+    </Games>
+    <URLs>
+        <URL>https://raw.githubusercontent.com/maygik/goatsimulator-autosplitter-loadremover/master/goatsimulatorsplit.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description> Load remover (By Maygik)</Description>
+  </AutoSplitter>
 </AutoSplitters>
